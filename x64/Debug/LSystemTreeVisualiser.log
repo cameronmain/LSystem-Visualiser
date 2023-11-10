@@ -1,0 +1,27 @@
+﻿  Application.cpp
+  ExampleSettings.cpp
+  LSystem.cpp
+  Renderer.cpp
+C:\Users\roker\source\repos\LSystemTreeVisualiser\Renderer.cpp(96,40): warning C4244: '=': conversion from 'double' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\roker\source\repos\LSystemTreeVisualiser\Renderer.cpp(97,40): warning C4244: '=': conversion from 'double' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\roker\source\repos\LSystemTreeVisualiser\Renderer.cpp(106,59): warning C4244: '+=': conversion from 'double' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\roker\source\repos\LSystemTreeVisualiser\Renderer.cpp(107,59): warning C4244: '-=': conversion from 'double' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+  UIManager.cpp
+  Generating Code...
+  LSystemTreeVisualiser.vcxproj -> C:\Users\roker\source\repos\LSystemTreeVisualiser\x64\Debug\LSystemTreeVisualiser.exe
